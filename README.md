@@ -1,7 +1,7 @@
 # EECS22L_ChessProject
 Team Name:
 
-Members: r
+Members: 
 Cristian Becerra 13647130 cbecerra5
 Ryan Van
 Casey Sharp 90818752
